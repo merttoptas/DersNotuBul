@@ -1,0 +1,16 @@
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\bin\Debug\DersNotuBul.exe
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\bin\Debug\DersNotuBul.pdb
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.csprojResolveAssemblyReference.cache
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.Form1.resources
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.Properties.Resources.resources
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.csproj.GenerateResource.Cache
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.exe
+C:\Users\mert\Desktop\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.pdb
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.exe
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.pdb
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\bin\Debug\DersNotuBul.exe
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\bin\Debug\DersNotuBul.pdb
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.csprojResolveAssemblyReference.cache
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.Form1.resources
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.Properties.Resources.resources
+C:\Users\mert\Desktop\c# çalışmaları\DersNotuBul\DersNotuBul\obj\Debug\DersNotuBul.csproj.GenerateResource.Cache
